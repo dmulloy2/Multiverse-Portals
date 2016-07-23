@@ -40,3 +40,6 @@ commands:
   mvpremove:
     description: Generic Multiverse-Portals Command
     usage: /<command>
+  mvpnear:
+    description: Generic Multiverse-Portals Command
+    usage: /<command>
